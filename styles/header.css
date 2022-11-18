@@ -20,7 +20,7 @@
 
 .opcoes {
     display: flex;
-    margin-right: 12em;
+    margin-right: 17em;
 }
 
 .opcoes__item {
@@ -40,21 +40,24 @@
 }
 
 .container__entrar {
+    font-family: "Inter";
+    font-size: 16px;
+    background: transparent;
+    border: transparent;
     padding: 0 1em;
-    text-decoration: none;
     color: var(--cinza);
 }
 
 .container__cadastrar {
+    font-family: "Inter";
+    font-size: 16px;
     border: 1px solid var(--vermelho-principal);
     background: var(--vermelho-principal);
     color: var(--branco);
     border-radius: 8px;
-    padding: 0 1em;
-    text-decoration: none;
 }
 
 .container__texto {
-    padding: 1em;
-    text-decoration: none;
+    padding: 0 1em;
+    font-weight: 500;
 }
