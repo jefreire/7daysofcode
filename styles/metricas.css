@@ -1,0 +1,27 @@
+.metricas-container {
+    display: flex;
+    padding: 0 12em 7em 22em;
+}
+
+.metricas-container div {
+    width: 20%;
+    margin-left: 1.7em;
+}
+
+.metricas-container h1 {
+    font-size: 60px;
+    color: var(--vermelho-principal);
+}
+
+.metricas-container h2 {
+    font-size: 18px;
+    color: var(--preto);
+    font-weight: 500;
+    padding: 1em 0;
+}
+
+.metricas-container p {
+    font-size: 16px;
+    color: var(--cinza);
+    font-weight: 500;
+}

@@ -3,6 +3,8 @@
     display: flex;
     justify-content: space-between;
     padding: 1.6em;
+    width: 90%;
+    align-items: center;
 }
 
 .container__logo{
@@ -10,7 +12,7 @@
 }
 
 .container__imagem{
-    margin-left: 10em;
+    margin-left: 22em;
 }
 .container__titulo {
     display: flex;
@@ -20,7 +22,7 @@
 
 .opcoes {
     display: flex;
-    margin-right: 17em;
+    margin-right: 21em;
 }
 
 .opcoes__item {
@@ -36,7 +38,7 @@
 
 .container__login{
     display: flex;
-    margin-right: 10em;
+    margin-right: 12em;
 }
 
 .container__entrar {

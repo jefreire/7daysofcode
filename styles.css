@@ -1,8 +1,11 @@
 @import url("styles/header.css");
 @import url("styles/cabecalho.css");
+@import url("styles/metricas.css");
+@import url("styles/vagas.css");
 
 :root {
     --branco: #FFFFFF;
+    --cinza-secundario: #EAECF0;
     --fonte-principal: "Inter";
     --cinza: #667085;
     --preto: #3A404E;

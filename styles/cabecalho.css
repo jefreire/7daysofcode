@@ -15,6 +15,7 @@
 }
 
 .cabecalho__texto {
+    font-size: 20px;
     color: var(--cinza);
-    padding: 0 33%;
+    padding: 0 29%;
 }

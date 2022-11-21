@@ -1,0 +1,61 @@
+.trabalhe__conosco {
+    text-align: center;
+    padding: 5em 0;
+}
+
+.vagas__link {
+    background: rgba(142, 36, 36, 0.05);
+    color: var(--vermelho-principal);
+    font-weight: 600;
+    padding: 4px 12px;
+    border-radius: 16px;
+    text-decoration: none;
+}
+
+.carreiras__titulo {
+    font-size: 36px;
+    font-weight: 600;
+    padding: 1em 0;
+}
+
+.carreiras__texto {
+    font-size: 20px;
+    color: var(--cinza);
+    padding: 0 29% 3em 29%;
+}
+
+.vagas__abertas{
+    padding: 0 30em;
+    width: 40%;
+    display: inline-block;
+}
+
+.area {
+    text-align: left;
+    font-size: 20px;
+    padding: 3em 0 2em 0;
+    font-weight: 500;
+}
+
+.vagas {
+    border: 2px solid var(--cinza-secundario);
+    border-radius: 16px;
+    text-align: left;
+    padding: 2em;
+    font-weight: 500;
+    margin-bottom: 1em;
+}
+
+.titulo-vaga {
+    font-size: 18px;
+}
+
+.informacoes {
+    color: var(--cinza);
+    font-size: 16px;
+    margin-top: 2em;
+}
+
+.informacoes span {
+    margin-right: 1em;
+}
