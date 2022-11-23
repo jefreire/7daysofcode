@@ -2,14 +2,18 @@
 @import url("styles/cabecalho.css");
 @import url("styles/metricas.css");
 @import url("styles/vagas.css");
+@import url("styles/depoimentos.css");
+@import url("styles/footer.css");
 
 :root {
     --branco: #FFFFFF;
-    --cinza-secundario: #EAECF0;
+    --branco-secundario: #F9FAFB;
     --fonte-principal: "Inter";
     --cinza: #667085;
+    --cinza-secundario: #EAECF0;
     --preto: #3A404E;
     --vermelho-principal: #8E2424;
+    --vermelho-secundario: #C31919;
 }
 
 body{
